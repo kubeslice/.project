@@ -27,7 +27,7 @@ repositories:
 
 website: "https://kubeslice.io"
 
-artwork: "https://landscape.cncf.io/logos/kubeslice.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/kubeslice"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
